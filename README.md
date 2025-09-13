@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chiXchi [chi squared] (AKA <b>A. Romano</b>)
-- 🌱 I’m currently learning <b> Statisticts for Big Data </b> at <i> Università degli Studi di Salerno </i>
 
 
 
